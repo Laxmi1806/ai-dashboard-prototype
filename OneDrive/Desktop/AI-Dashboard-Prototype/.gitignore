@@ -1,0 +1,41 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# User data
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+AppData/
+NTUSER.DAT*
+ntuser.dat*
+desktop.ini
+
+# Data files if large/untracked needed
+# *.csv  # uncomment if not commit data
+

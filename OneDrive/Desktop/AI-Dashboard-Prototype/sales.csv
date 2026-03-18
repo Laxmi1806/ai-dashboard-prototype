@@ -1,0 +1,11 @@
+Date,Region,Product,Category,Sales,Quantity,Revenue
+01-01-2024,North,Widget A,Electronics,50,5,250
+02-01-2024,South,Widget B,Furniture,30,3,90
+02-01-2024,East,Widget C,Electronics,75,7,525
+02-01-2024,West,Widget A,Electronics,60,6,360
+01-02-2024,North,Widget B,Furniture,45,4,180
+01-02-2024,South,Widget C,Electronics,80,8,640
+02-02-2024,East,Widget A,Electronics,55,5,275
+02-02-2024,West,Widget B,Furniture,35,3,105
+01-03-2024,North,Widget C,Electronics,90,9,810
+01-03-2024,South,Widget A,Electronics,65,6,390
